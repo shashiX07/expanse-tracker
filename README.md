@@ -1,12 +1,12 @@
-# 🌿 Eco-Track — Personal Finance Management
+# 🌿 Expanse-Tracker — Personal Finance Management
 
-Eco-Track is a modern, intuitive personal finance tracking application built to help you take control of your money. With a sleek UI and insightful analytics, it's designed to make money management effortless, insightful, and even enjoyable.
+Expanse-tracker is a modern, intuitive personal finance tracking application built to help you take control of your money. With a sleek UI and insightful analytics, it's designed to make money management effortless, insightful, and even enjoyable.
 
 ---
 
 ## 📊 Smart Expense Tracking for Financial Wellness
 
-Eco-Track provides a powerful, interactive dashboard to give you a full overview of your financial health:
+Expanse-tracker provides a powerful, interactive dashboard to give you a full overview of your financial health:
 
 * 💸 Income & Expense summary
 * 🗕️ Monthly spending trends
@@ -38,7 +38,7 @@ Robust tools to manage every transaction in your financial timeline:
 
 ## 🎨 Beautiful & Functional UI
 
-Eco-Track combines usability with aesthetics:
+Expanse-Tracker combines usability with aesthetics:
 
 * 🌙 Light / Dark theme toggle
 * 📱 Fully responsive layout (desktop & mobile)
@@ -57,10 +57,10 @@ Eco-Track combines usability with aesthetics:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/eco-track-app.git
+git clone https://github.com/shashix07/expanse-tracker.git
 
 # Navigate to the project directory
-cd eco-track-app
+cd expanse-tracker
 
 # Install dependencies
 npm install
